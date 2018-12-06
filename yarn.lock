@@ -40,17 +40,17 @@
     "@angular-devkit/core" "7.1.1"
     rxjs "6.3.3"
 
-"@angular/animations@7.1.0":
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-7.1.0.tgz#3f03175217a45b72e53310d9ab35e69802ad9555"
-  integrity sha512-1Sje3qptVsTxPP4LwcvVPQun4P156wsEEwwCXoCO3NuP+tS67syU8M69uIpyDbpnx2ZeuWpJ9HfvKe1ljeqcuw==
+"@angular/animations@7.1.2":
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-7.1.2.tgz#876598802a2722b97d7aa9ea092d3aadc05c1fa8"
+  integrity sha512-zCLzPpifD4V9C35+DG75yHiAxZrWmk7n7dudxchKXf/YpgzV1M43lTSxna6YZgMLIXRjilfjfh6jqOOP+PctoQ==
   dependencies:
     tslib "^1.9.0"
 
-"@angular/bazel@7.1.0":
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/@angular/bazel/-/bazel-7.1.0.tgz#1a1a12a2b3d56c107a00c72218f1326e2fd54c97"
-  integrity sha512-YJaLOI0/x/BB+Ax9C488NBX1L3lLDU4S3BUAAbS5ciXfFFZUZuCKPCBV4STDOaQkRk0orT0PNEhSd1J5ohnmug==
+"@angular/bazel@7.1.2":
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/@angular/bazel/-/bazel-7.1.2.tgz#0f84e77d8f41fe00be3c4121889cf1d999d91269"
+  integrity sha512-j60yf6XSGSip+AUf7X5jdD8R+3AdBNQU/MdQXzeoLOUHFBnVyN1Mj9cBxlrc9ErtOJ3yla9MTAhyTvxLXUMsKw==
   dependencies:
     "@angular-devkit/architect" "^0.10.6"
     "@angular-devkit/core" "^7.0.4"
@@ -70,17 +70,17 @@
   optionalDependencies:
     parse5 "^5.0.0"
 
-"@angular/common@7.1.0":
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-7.1.0.tgz#89b0a34fd8f2a323704369551be4ac7491dda0b7"
-  integrity sha512-tu6Hv3/z3K2NLD4ndBioGtcykhbwhMJYUWb0NvaOLhaVYColWKPFpkflEorDWB+3/IWkpELGhA/HQ2zQh7EVyg==
+"@angular/common@7.1.2":
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-7.1.2.tgz#506e48b18dd8c9dd8c97e61585ad0647079e6c05"
+  integrity sha512-Ss9OilnbKpfkkwa1spUUAzgtGgd76j+Cgp1ecBBaueBoHyDZcSwD3Ioe5/91mjGF8i/MmpoBtEmk569fwmb7iQ==
   dependencies:
     tslib "^1.9.0"
 
-"@angular/compiler-cli@7.1.0":
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-7.1.0.tgz#b02b2f94b9510caadc2b16bf1f97aa41d21a3ce2"
-  integrity sha512-Q42B3YmjMNYWTxTWfyDDFa6HSVqwY3rZO5Kp3Q/NKhQ6w/WddduxjARf/OCbtp0bVX3wZNObS6nO4H65rNCtsw==
+"@angular/compiler-cli@7.1.2":
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-7.1.2.tgz#8bdf883b6e529ccd8111f1adc92c3323fa11d093"
+  integrity sha512-u686o7eOPxSokE3l+lpSMs+sGRTLiGBXGsTuNR891XPN8+E5ep7NHgimeLizVXlbwIYZiNtcQ9zRbhEsMI2ErQ==
   dependencies:
     canonical-path "1.0.0"
     chokidar "^1.4.2"
@@ -94,17 +94,17 @@
     tslib "^1.9.0"
     yargs "9.0.1"
 
-"@angular/compiler@7.1.0":
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-7.1.0.tgz#3455eeb575d0b9b68a099b5781d3cce78468146a"
-  integrity sha512-1Hjx6e+lVXZyXFFe4OW34ZpiaGEYyB1MQ7k2C+cMm0ABMQS3LsWT4DYhY7bk0mmMuuXQj66C62MX76ladDtdIg==
+"@angular/compiler@7.1.2":
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-7.1.2.tgz#def5a55616ef805963288b9d9402d87411d93e7a"
+  integrity sha512-ua6Wh+c5XzxAeJT6guwAFYnwa1XzJpncppUrceRXIS9VAn9X7ApxRr45DvbVeYwXBb1iNdHWtZFm1koFVQpydA==
   dependencies:
     tslib "^1.9.0"
 
-"@angular/core@7.1.0":
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-7.1.0.tgz#a55fbbc28b2c9da767121f433733683780266eb3"
-  integrity sha512-7mMoWuf8jAf4hcjQ0Exz2w9Qx9SRwNuDdtEZFGWH9dZWz5uPCewrN+Kt9MigMfSYGEdLAPcRMIuvFHDCS8B3Hg==
+"@angular/core@7.1.2":
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-7.1.2.tgz#08f90d8e6ecb26c10cc21e2e2e4bdca5d0b7d7a5"
+  integrity sha512-k3hKz6oj5KAaU/R034flxa73MWoR1SBBZPbpqK5zncIYbZMxvUQDgD3O7SNdQfI9G534SzdJk3AqJNEDTFUyYA==
   dependencies:
     tslib "^1.9.0"
 
